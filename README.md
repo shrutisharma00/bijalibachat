@@ -1,4 +1,4 @@
-# Bijli Bachat – बिजली बचत (Final Year CSE Project)
+# Bijli Bachat – बिजली बचत 
 
 Bijli Bachat is an **offline-capable PWA** that helps **UP DISCOM** (Uttar Pradesh, India) electricity consumers **predict their next month's bill** and receive **personalized Hindi saving tips**.
 
@@ -184,3 +184,4 @@ You can capture these after running the app locally.
 ## Demo Video Tips
 
 See `docs/demo-video-plan.md` for a scene-wise demo script outline.
+
